@@ -1,2 +1,2 @@
 # hi
-Here's an [article](https://abluetortoise30.github.io/firstarticle)
+Here's an [article](https://abluetortoise30.github.io/first_article)
