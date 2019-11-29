@@ -5,7 +5,11 @@
     type = "text/css"
     href = "home_style.css" />
 </head>
+
 <h1>
-    Article 1
-    <a href="/articles/first_article.html">My First Article</a>
+    The Home of the Mad Ramblings of the Blue Tortoise
 </h1>
+
+<h2>
+    <a href="articles/first_article.html">My First Article</a>
+</h2>
