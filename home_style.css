@@ -1,13 +1,18 @@
 h1 {
-color: #0881c2;
-font-face: Arial'
+    color: #00a6ff;
+    font-face: Arial'
 }
 
 p {
-color: white;
-font-size: 1.5em;
+    color: white;
+    font-size: 1.5em;
 }
 
 body {
-  background-color: #202020
+    color: white;
+    background-color: #202020
+}
+
+a {
+    color: #34eb80;
 }
