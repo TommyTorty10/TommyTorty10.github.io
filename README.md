@@ -1,4 +1,3 @@
-#I'm here
 <title>Home</title>
 <head>
     <meta charset="UTF-8">
@@ -6,6 +5,7 @@
     type = "text/css"
     href = "home_style.css" />
 </head>
-<p>
-I'm a paragraph!
-</p>
+<h1>
+    Article 1
+    <a href="/articles/first_article.html">My First Article</a>
+</h1>
