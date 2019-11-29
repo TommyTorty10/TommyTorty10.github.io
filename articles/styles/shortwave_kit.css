@@ -14,7 +14,8 @@ p {
     font-size: 1.5em;
     padding: 20px;
     word-wrap: break-word;
-    width: 900px
+    width: 500px;
+    float: right
 }
 
 body {
@@ -26,16 +27,8 @@ a {
     color: #34eb80
 }
 
-div.columnleft {
-    float: left;
-    width: 30%:
-}
-
-div.columnright {
-    float: right;
-    width: 50%:
-}
-
-table, td {
-    border: px white;
+div {
+  -webkit-columns: 655px 2; /* Chrome, Safari, Opera */
+  -moz-columns: 655px 2; /* Firefox */
+  columns: 655px 2;
 }
