@@ -1,0 +1,28 @@
+h1 {
+    color: #00a6ff;
+    font-face: Arial'
+}
+
+img{
+    width:652.8px;
+    height:497.6px;
+    padding: 20px
+}
+
+p {
+    color: white;
+    font-size: 1.5em;
+    float: right;
+    padding: 20px;
+    word-wrap: break-word;
+    width: 900px
+}
+
+body {
+    color: white;
+    background-color: #202020
+}
+
+a {
+    color: #34eb80
+}
