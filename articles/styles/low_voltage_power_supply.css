@@ -1,0 +1,32 @@
+h1 {
+    color: #00a6ff;
+    font-face: Arial'
+}
+
+img{
+    width:652.8px;
+    height:497.6px;
+    padding: 20px
+}
+
+p {
+    color: white;
+    font-size: 1.5em;
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+body {
+    color: white;
+    background-color: #202020
+}
+
+a {
+    color: #34eb80
+}
+
+div {
+  -webkit-columns: 655px 2; /* Chrome, Safari, Opera */
+  -moz-columns: 655px 2; /* Firefox */
+  columns: 655px 2;
+}
